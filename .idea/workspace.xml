@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1acfd298-b397-4e4b-85e9-da73a2d68513" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="GOROOT" path="D:\StudySoftware\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\wbb\goproject\TrdSystem\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aNKL00DWToPcrhLHtWwM8PrdGM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build TrdSystem" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="TrdSystem" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="TrdSystem" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build TrdSystem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1acfd298-b397-4e4b-85e9-da73a2d68513" name="Default Changelist" comment="" />
+      <created>1586570551905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586570551905</updated>
+      <workItem from="1586570553462" duration="1041000" />
+      <workItem from="1586571608599" duration="383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <vendoring-mode>true</vendoring-mode>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586570565134">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586570565134" />
+    <state x="1061" y="442" key="FileChooserDialogImpl" timestamp="1586570713705">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="442" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1586570713705" />
+    <state x="1150" y="591" width="602" height="218" key="Github.ShareDialog" timestamp="1586570650462">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1150" y="591" width="602" height="218" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586570650462" />
+    <state width="791" height="328" key="GridCell.Tab.0.bottom" timestamp="1586571594338">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="791" height="328" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586571594338" />
+    <state width="791" height="328" key="GridCell.Tab.0.center" timestamp="1586571594338">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="791" height="328" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586571594338" />
+    <state width="791" height="328" key="GridCell.Tab.0.left" timestamp="1586571594338">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="791" height="328" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586571594338" />
+    <state width="791" height="328" key="GridCell.Tab.0.right" timestamp="1586571594338">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="791" height="328" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586571594338" />
+  </component>
+</project>

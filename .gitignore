@@ -1,0 +1,5 @@
+/vendor
+*.exe
+/log
+*.iml
+*.idea
