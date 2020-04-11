@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1acfd298-b397-4e4b-85e9-da73a2d68513" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrdSystem.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,12 @@
   </component>
   <component name="GOROOT" path="D:\StudySoftware\Go" />
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -43,8 +51,9 @@
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="go build TrdSystem" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -84,7 +93,9 @@
       <option name="presentableId" value="Default" />
       <updated>1586570551905</updated>
       <workItem from="1586570553462" duration="1041000" />
-      <workItem from="1586571608599" duration="702000" />
+      <workItem from="1586571608599" duration="1361000" />
+      <workItem from="1586572987134" duration="303000" />
+      <workItem from="1586573306008" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="【TrdSystem】创建项目">
       <created>1586572202662</created>
@@ -93,11 +104,54 @@
       <option name="project" value="LOCAL" />
       <updated>1586572202662</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="【TrdSystem】创建项目">
+      <created>1586572416485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586572416485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="【TrdSystem】创建项目" />
@@ -113,10 +167,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586570565134" />
-    <state x="398" y="212" key="CommitChangelistDialog2" timestamp="1586572196351">
+    <state x="398" y="212" width="1021" height="812" key="CommitChangelistDialog2" timestamp="1586572414999">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="398" y="212" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586572196350" />
+    <state x="398" y="212" width="1021" height="812" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586572414999" />
     <state x="1061" y="442" key="FileChooserDialogImpl" timestamp="1586570713705">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -141,9 +195,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="791" height="328" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586571594338" />
-    <state x="381" y="351" key="Vcs.Push.Dialog.v2" timestamp="1586572334390">
+    <state x="290" y="260" key="SettingsEditor" timestamp="1586572960382">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="381" y="351" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1586572334390" />
+    <state x="290" y="260" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1586572960382" />
+    <state x="381" y="351" key="Vcs.Push.Dialog.v2" timestamp="1586572818509">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="381" y="351" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1586572818509" />
   </component>
 </project>
