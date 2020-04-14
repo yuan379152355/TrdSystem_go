@@ -6,6 +6,7 @@ import (
 	tspublic "TrdSystem/public"
 )
 
+//testesttststst
 func main() {
 	// 定义公共句柄
 	var sYBase tspublic.SYBase
